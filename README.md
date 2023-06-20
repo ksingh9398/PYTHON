@@ -1,0 +1,2 @@
+# PYTHON
+Basics Python Note.
