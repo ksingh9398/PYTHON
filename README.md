@@ -1,2 +1,2 @@
-# PYTHON
+# PYTHON NOTE
 Basics Python Note.
